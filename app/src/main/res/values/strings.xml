@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjectToDo</string>
+    <string name="accomplish_what_s_meaningful_to_you_each_day">Accomplish what\'s meaningful to you each day</string>
+    <string name="your_very_own">your very own...</string>
+    <string name="todo_list">ToDo list</string>
+</resources>
