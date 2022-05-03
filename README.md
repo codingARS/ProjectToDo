@@ -1,3 +1,13 @@
+Accomplish what's meaningful to you each day. Your very own... ToDo list
+-> Google login/signout authentication
+-> Add multiplpe to-do's
+-> Separate storage of tasks for every user
+-> Swipe to delete functionality
+-> Checkboxes to keep track of your tasks every day
+-> Based on Firebase 
+
+
+
 build.gradle(Module: app) 
 
 
